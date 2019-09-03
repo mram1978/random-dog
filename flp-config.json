@@ -1,0 +1,35 @@
+{
+    "application": {
+        "id": "",
+        "title": "ovly.random-dog.random-dog",
+        "description": "Image and videos",
+        "type": "SAP_UI5_Component",
+        "componentUrl": "/",
+        "appUrl": "#randomdog-Display",
+        "navigationComponentName": "ovly.random-dog",
+        "intentSemanticObject": "random-dog",
+        "intentAction": "Display",
+        "html5ApplicationName": "randomdog",
+        "HCPParentApplicationName": ""
+    },
+    "assignment": {
+        "groups": [
+            "86a5d4b6-85aa-4d1e-8467-671d89bee735-1566437857603"
+        ],
+        "contentPackages": [
+            "61653af6-81cf-4cb5-af48-7089ee7e5c9a"
+        ],
+        "categories": []
+    },
+    "tile": {
+        "type": "StaticTile",
+        "title": "Title",
+        "subtitle": "Subtitle",
+        "searchKeywords": "Title,Subtitle",
+        "displayIconUrl": "sap-icon://approvals",
+        "displayInfoText": "",
+        "size": "1x1",
+        "serviceURL": "",
+        "refreshInterval": ""
+    }
+}
